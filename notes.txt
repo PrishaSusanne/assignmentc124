@@ -1,0 +1,5 @@
+C:\WHITEHAT\Datascience\c124_flask>py -m venv venv
+
+C:\WHITEHAT\Datascience\c124_flask>.\venv\Scripts\activate
+
+(venv) C:\WHITEHAT\Datascience\c124_flask>pip install Flask
